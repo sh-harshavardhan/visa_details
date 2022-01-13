@@ -25,7 +25,7 @@
 
 ## Work related
 - Work site : `State Street Corporation, 1 Lincon Street, Boston, MA 0211`
-- Salary : `83,967.00 USD` (`83,967.00 USD to 106,226 USD`)
+- Salary : 
 - Job Titile : `Staff Consultant`
 - SOC Occupation title : `Software Developer, Applications`
 
