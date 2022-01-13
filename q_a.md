@@ -28,9 +28,8 @@
     - yes I will be coming back to India.
 12. When will you return to India?
     - After 3 years, once my VISA gets expired.
-13. Why would you want to return to India?
-    - Actually I have to come back to India to support my dad, He is a priest in a temple which he helped construct with all of his saving, and I have to help him is organizing all the events, and someone must be there for organizing and looking after.
-    - And also I am very close to my family and that gives me all the reason to come back.
+13. Why would you want to return to India
+    -  I am very close to my family and that gives me all the reason to come back.
 14. Is it your first H1B or visa revalidation?
     - yes, this is my first time.
 15. After the conclusion of your visa, what do you plan to do?
@@ -70,7 +69,7 @@
 2. Where are you working currently?
     - I am currtly working for Oracle Financial services and software in Bangalore location. petition has Chennai location ???
 3. What is your current salary?
-    - It is currently INR 69,906.67 (INR 8.38 LPA)
+    - It is currently INR 
 4. What is your current role in the current company?
     - should I go full in technical ?
 5. Is it an Indian company you currently work for?
